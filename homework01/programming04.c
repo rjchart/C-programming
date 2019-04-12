@@ -12,6 +12,6 @@ int main(void)
     
     C =(5.0/9.0)*(F - 32.0);
     
-    printf("섭씨값은 %lf도입니다.", C);
+    printf("섭씨값은 %lf도 입니다!!", C);
     return 0;
 }
